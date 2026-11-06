@@ -1,0 +1,14 @@
+{
+  "EmbyPlaybackBark": {
+    "name": "Emby播放Bark通知v2",
+    "description": "检测Emby中正在播放的用户，通过Bark推送用户名和影片名。",
+    "version": "1.0.0",
+    "level": 1,
+    "author": "your_name",
+    "author_url": "https://github.com/your_name",
+    "icon": "Moviepilot_A.png",
+    "history": {
+      "v1.0.0": "首次发布：Emby播放检测 + Bark通知。"
+    }
+  }
+}
